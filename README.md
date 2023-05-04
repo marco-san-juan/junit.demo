@@ -5,8 +5,10 @@ hello git
 step 2
 hi again
 
+step 3
 <<<<<<< HEAD
-step 3
 =======
-step 3
+sadas
 >>>>>>> branch 'master' of https://github.com/marco-san-juan/junit.demo.git
+sadas
+sadas
